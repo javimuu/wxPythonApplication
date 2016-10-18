@@ -1,8 +1,6 @@
 # wxPythonApplication
 
-## Tutorials: http://zetcode.com/wxpython/
-
-##Installing wxWidgets and wxPython On Ubuntu Or Debian
+Installing wxWidgets and wxPython On Ubuntu Or Debian
 
 There are wxWidgets and wxPython packages in the standard software repositories for Debian and Ubuntu, but they are usually at least a few releases behind the current release, and in some cases many releases behind. Since many users prefer to use only packages installed from repositories (for easier package management) but still would like to have newest versions possible of their installed software, we have our own APT repository that is usually updated within a few days of each release. To use it to be able to keep your wx on the cutting edge release just follow these instructions.
 
